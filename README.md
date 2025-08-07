@@ -74,7 +74,7 @@ These metrics may vary depending on dataset and preprocessing.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/rainfall-prediction-ml.git
+git clone https://github.com/Ayush0135/rainfall-prediction-ml.git
 cd rainfall-prediction-ml
 2. Install Dependencies
 bash
